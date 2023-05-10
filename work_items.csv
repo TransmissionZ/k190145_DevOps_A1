@@ -1,0 +1,56 @@
+ID,Title,Assigned To,Tags,Work Item Type
+195,Implement the home page in HTML/CSS,Abdul Waris Khan,,Task
+194,Write the introductory text about yourself,Abdul Waris Khan,,Task
+175,WI 4,Abdul Waris Khan,,Task
+221,Write the JavaScript code for displaying projects and filtering them by technology,Abdul Waris Khan,,Task
+220,Write the CSS styling for the projects page,Abdul Waris Khan,,Task
+219,Code the HTML structure of the projects page,Abdul Waris Khan,,Task
+218,Write the JavaScript code for the search bar functionality,Abdul Waris Khan,,Task
+217,Set up the database on a server,Abdul Waris Khan,,Task
+216,Plan and design the database schema,Abdul Waris Khan,,Task
+215,Test the page for responsiveness and make necessary adjustments,Abdul Waris Khan,,Task
+214,Write the CSS styling for the home page,Abdul Waris Khan,,Task
+213,Code the HTML structure of the home page,Abdul Waris Khan,,Task
+212,Edit and refine the text,Abdul Waris Khan,,Task
+211,Finalize the design and create a mockup,Abdul Waris Khan,,Task
+210,Sketch out initial design concepts,Abdul Waris Khan,,Task
+209,Finalize the design and create a mockup,Abdul Waris Khan,,Task
+208,Research and gather inspiration for projects page design,Abdul Waris Khan,,Task
+207,Research and gather inspiration for home page design,Abdul Waris Khan,,Task
+206,Optimize the website's loading speed,Abdul Waris Khan,,Issue
+205,Test the website on different browsers and devices to ensure compatibility,Abdul Waris Khan,,Issue
+204,Ensure that the website is responsive and looks good on different screen sizes,Abdul Waris Khan,,Issue
+203,Design and implement a footer for the website,Abdul Waris Khan,,Issue
+202,Implement a navigation bar for easy page switching,Abdul Waris Khan,,Issue
+201,Implement the education page in HTML/CSS/JavaScript,Abdul Waris Khan,,Issue
+200,Create a database to store education information,Abdul Waris Khan,,Issue
+199,Design the layout of the education page,Abdul Waris Khan,,Issue
+198,implement a search bar for filtering projects by technology,Abdul Waris Khan,,Issue
+191,Responsive Design,Abdul Waris Khan,,Task
+190,Navigation,Abdul Waris Khan,,Task
+189,Education Page,Abdul Waris Khan,,Task
+188,Education Page,Abdul Waris Khan,,Task
+187,Projects Page,Abdul Waris Khan,,Task
+186,Home Page,Abdul Waris Khan,,Task
+163,1.1,Abdul Waris Khan,,Task
+164,WI 1,Abdul Waris Khan,,Issue
+165,Login page,Abdul Waris Khan,,Task
+166,Data Collection,Abdul Waris Khan,,Task
+167,Webpage design,Abdul Waris Khan,,Task
+168,WI 2,Abdul Waris Khan,,Issue
+169,UX,Abdul Waris Khan,,Task
+170,resources,Abdul Waris Khan,,Task
+171,budget,Abdul Waris Khan,,Task
+173,Team hire,Abdul Waris Khan,,Task
+174,team train,Abdul Waris Khan,,Task
+176,landing page,Abdul Waris Khan,,Task
+177,db design,Abdul Waris Khan,,Task
+178,frontend dev,Abdul Waris Khan,,Task
+179,WI 5,Abdul Waris Khan,,Issue
+180,security patche,Abdul Waris Khan,,Task
+181,antivirus installations,Abdul Waris Khan,,Task
+182,WI,Abdul Waris Khan,,Issue
+183,audit team,Abdul Waris Khan,,Task
+184,audit charter design,Abdul Waris Khan,,Task
+185,Course management,Abdul Waris Khan,,Task
+162,Epic 1,Abdul Waris Khan,,Epic
