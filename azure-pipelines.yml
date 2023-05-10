@@ -1,4 +1,5 @@
 # Starter pipeline
+
 # Start with a minimal pipeline that you can customize to build and deploy your code.
 # Add steps that build, run tests, deploy, and more:
 
@@ -19,3 +20,10 @@ steps:
     archiveFile: '$(System.DefaultWorkingDirectory)/$(Build.BuildId).zip'
     replaceExistingArchive: true
 
+- task: AzureWebApp@1
+  inputs:
+    azureSubscription: 'Azure for Students(a7c47d16-d205-4a6e-8e9d-7bf684c2c960)'
+    appType: 'webApp'
+    appName: 'k190145-DevOps-A1-WebApp'
+    package: '$(System.DefaultWorkingDirectory)/*.zip'
+    deploymentMethod: 'auto'
