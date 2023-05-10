@@ -23,9 +23,9 @@ steps:
   inputs:
     azureSubscription: 'Azure for Students(a7c47d16-d205-4a6e-8e9d-7bf684c2c960)'
     appType: 'webApp'
-    appName: 'DevOpsWebApp786'
+    appName: 'k190145-DevOps-A1-WebApp'
     deployToSlotOrASE: true
-    resourceGroupName: 'Devops-A1'
+    resourceGroupName: 'k190145_a1'
     slotName: 'production'
     package: '$(System.DefaultWorkingDirectory)/*.zip'
     deploymentMethod: 'auto'
