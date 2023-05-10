@@ -19,13 +19,3 @@ steps:
     archiveFile: '$(System.DefaultWorkingDirectory)/$(Build.BuildId).zip'
     replaceExistingArchive: true
 
-- task: AzureWebApp@1
-  inputs:
-    azureSubscription: 'Azure for Students(a7c47d16-d205-4a6e-8e9d-7bf684c2c960)'
-    appType: 'webApp'
-    appName: 'k190145-DevOps-A1-WebApp'
-    deployToSlotOrASE: true
-    resourceGroupName: 'k190145_a1'
-    slotName: 'production'
-    package: '$(System.DefaultWorkingDirectory)/*.zip'
-    deploymentMethod: 'auto'
